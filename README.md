@@ -1,2 +1,2 @@
 # AutoForge
-Free bot for Forge of Empires
+Free up-to-date bot for Forge of Empires
