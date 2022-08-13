@@ -1,6 +1,7 @@
 <h1>AutoForge</h1>
 <h4>Free up-to-date bot for Forge of Empires</h4>
 Current version : v0.1
+Foe latest supported version : 1.236
 
 <div id="summary">
 <h2>Summary</h2>
