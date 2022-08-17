@@ -2,6 +2,7 @@
 <h4>Free up-to-date bot for Forge of Empires</h4>
 Current version : v0.2 <br/>
 Foe latest supported version : 1.236
+<b>If you use the bot, please start the repo</b>
 
 <div id="summary">
 <h2>Summary</h2>
@@ -27,7 +28,7 @@ Foe latest supported version : 1.236
      </ul>
     </li>
   <li>Polivate players automatically.</li>
-  <li>Flood other players with custom message (<b>BAN RISK<b>)</li>
+  <li>Flood other players with custom message (<b>BAN RISK</b>)</li>
   <li>Get reward of terminated quests automatically.</li>
 </div>
    
