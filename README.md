@@ -64,6 +64,7 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
      </ul>
     </li>
   <li>Polivate players automatically.</li>
+  <li>Flood other players with custom message (<b>BAN RISK<b>)</li>
   <li>Get reward of terminated quests automatically.</li>
 </div>
 
