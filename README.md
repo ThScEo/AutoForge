@@ -15,7 +15,22 @@ Foe latest supported version : 1.236
 </ol>
 </div>
 
-
+<div id="features">
+<h2>Features</h2>
+<ul>
+  <li>Harvest all buildings automatically.</li>
+  <li>Start production automatically of:
+    <ul>
+      <li> Goods buildings</li>
+      <li>Supplies buildings</li>
+      <li> Military buldings</li>
+     </ul>
+    </li>
+  <li>Polivate players automatically.</li>
+  <li>Flood other players with custom message (<b>BAN RISK<b>)</li>
+  <li>Get reward of terminated quests automatically.</li>
+</div>
+   
 <div id="download">
 <h2>Download</h2>
 To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/releases">Releases</a> and download the latest release.
@@ -50,24 +65,6 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
   <li>The web adresse is the URL displayed on your navigator when playing Forge Of Empires. <img src="how_to_login_url.PNG" width=60%><br/>
    For example: "https://es21.forgeofempires.com/game/"</li>
  </ol>
- 
- 
-<div id="features">
-<h2>Features</h2>
-<ul>
-  <li>Harvest all buildings automatically.</li>
-  <li>Start production automatically of:
-    <ul>
-      <li> Goods buildings</li>
-      <li>Supplies buildings</li>
-      <li> Military buldings</li>
-     </ul>
-    </li>
-  <li>Polivate players automatically.</li>
-  <li>Flood other players with custom message (<b>BAN RISK<b>)</li>
-  <li>Get reward of terminated quests automatically.</li>
-</div>
-
  
 <div id="screenshots">
 <h2>Screenshots</h2>
