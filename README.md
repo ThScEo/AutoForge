@@ -3,7 +3,7 @@
 Current version : v0.3.5 <br/>
 Foe latest supported version : 1.238 <br/>
 <h2><b>If you use the bot, please start the repo</b></h2>
-<h2><b>If you want new features, please open an issue</b></h2>
+<i><b>If you want new features, please open an issue</b></i>
 
 <div id="summary">
 <h2>Summary</h2>
