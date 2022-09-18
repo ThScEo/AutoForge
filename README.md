@@ -1,7 +1,7 @@
 <h1>AutoForge</h1>
 <h4>Free up-to-date bot for Forge of Empires</h4>
-Current version : v0.3.5 <br/>
-Foe latest supported version : 1.238 <br/>
+Current version : v0.3.7 <br/>
+Foe latest supported version : 1.239 <br/>
 <h2><b>If you use the bot, please start the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
 
@@ -24,13 +24,15 @@ Foe latest supported version : 1.238 <br/>
   <li>Start production automatically of:
     <ul>
       <li> Goods buildings</li>
-      <li>Supplies buildings</li>
+      <li> Supplies buildings</li>
       <li> Military buldings</li>
      </ul>
     </li>
   <li>Polivate players automatically.</li>
   <li>Flood other players with custom message (<b>BAN RISK</b>)</li>
   <li>Get reward of terminated quests automatically.</li>
+  <li>Display user's city in "Map" tab.</li>
+  <li>You can configure a random sleep time between each loop.</li>
 </div>
    
 <div id="download">
