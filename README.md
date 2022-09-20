@@ -1,6 +1,6 @@
 <h1>AutoForge</h1>
 <h4>Free up-to-date bot for Forge of Empires</h4>
-Current version : v0.3.10 <br/>
+Current version : v0.3.11 <br/>
 Foe latest supported version : 1.239 <br/>
 <h2><b>If you use the bot, please start the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
