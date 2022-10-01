@@ -76,7 +76,12 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 <ul>
 <li>Login window<br/><img src="login.PNG" width=70%></li>
 <li>Management window<br/><img src="main_window.PNG" width=70% ></li>
-<li>Goods buildings management<br/><img src="goods.PNG" width=70% ></li>
+<li>Army management<br/><img src="army.PNG" width=70% ></li>
+<li>Hidden rewards management<br/><img src="hidden_rewards.PNG" width=70% ></li>
+<li>Map management<br/><img src="map.PNG" width=70% ></li>
+<li>Production buildings management<br/><img src="production.PNG" width=70% ></li>
+<li>Residential buildings management<br/><img src="residential.PNG" width=70% ></li>
+<li>Quests management<br/><img src="quests.PNG" width=70% ></li>
 <li>Neighbours management<br/><img src="neighbours.PNG" width=70% ></li>
 </ul>
 </div>
