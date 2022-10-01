@@ -1,6 +1,6 @@
 <h1>AutoForge</h1>
-<h4>Free up-to-date bot for Forge of Empires</h4>
-Current version : v0.3.11 <br/>
+<h4>Up-to-date bot for Forge of Empires</h4>
+Current version : v0.4.0 <br/>
 Foe latest supported version : 1.239 <br/>
 <h2><b>If you use the bot, please start the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
@@ -8,10 +8,11 @@ Foe latest supported version : 1.239 <br/>
 <div id="summary">
 <h2>Summary</h2>
 <ol>
+ <li> <a href="#features">Features</a></li>
+ <li> <a href="#licenses">Buy a license key</a></li>
  <li> <a href="#download">Download</a></li>
  <li> <a href="#installation">Installation</a></li>
  <li> <a href="#run">Run</a></li>
- <li> <a href="#features">Features</a></li>
  <li> <a href="#screenshots">Screenshots</a></li>
  <li> <a href="#report_bug">Report bug</a></li>
 </ol>
@@ -36,6 +37,13 @@ Foe latest supported version : 1.239 <br/>
   <li>You can configure a random sleep time between each loop.</li>
 </div>
    
+<div id="licenses">
+<h2>How to buy a license</h2>
+To buy 30-days full-features licenses, you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a>
+- 8€ / 30 days
+<b>You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you.</b>
+</div>
+
 <div id="download">
 <h2>Download</h2>
 To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/releases">Releases</a> and download the latest release.
