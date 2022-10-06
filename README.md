@@ -1,6 +1,6 @@
 <h1>AutoForge</h1>
-<h4>Up-to-date bot for Forge of Empires</h4>
-Current version : v0.4.0 <br/>
+<h4>Free Up-to-date bot for Forge of Empires</h4>
+Current version : v0.4.1 <br/>
 Foe latest supported version : 1.239 <br/>
 <h2><b>If you use the bot, please start the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
@@ -9,7 +9,7 @@ Foe latest supported version : 1.239 <br/>
 <h2>Summary</h2>
 <ol>
  <li> <a href="#features">Features</a></li>
- <li> <a href="#licenses">Buy a license key</a></li>
+ <li> <a href="#licenses">Buy a license key Or try the bot with key EITTX-IQPXX-NURZG-WKWYK</a></li>
  <li> <a href="#download">Download</a></li>
  <li> <a href="#installation">Installation</a></li>
  <li> <a href="#run">Run</a></li>
@@ -21,24 +21,25 @@ Foe latest supported version : 1.239 <br/>
 <div id="features">
 <h2>Features</h2>
 <ul>
-  <li>Harvest all buildings automatically.</li>
+  <li>Harvest all buildings automatically. <b>(Free)<p></li> 
   <li>Start production automatically of:
     <ul>
-      <li> Goods buildings</li>
-      <li> Supplies buildings</li>
-      <li> Military buldings</li>
+      <li> Goods buildings <b>(Free)<p></li>
+      <li> Supplies buildings <b>(Free)<p></li>
+      <li> Military buldings <b>(Free)<p></li>
      </ul>
     </li>
-  <li>Polivate players automatically.</li>
-  <li>Collect hidden rewards automatically.</li>
-  <li>Flood other players with custom message (<b>BAN RISK</b>)</li>
-  <li>Get reward of terminated quests automatically.</li>
-  <li>Display user's city in "Map" tab.</li>
-  <li>You can configure a random sleep time between each loop.</li>
+  <li>Polivate players automatically. <b>(Premium)<p></li>
+  <li>Collect hidden rewards automatically. <b>(Premium)<p></li>
+  <li>Flood other players with custom message (<b>BAN RISK</b>) <b>(Free)<p></li>
+  <li>Get reward of terminated quests automatically. <b>(Free)<p></li>
+  <li>Display user's city in "Map" tab. <b>(Free)<p></li>
+  <li>You can configure a random sleep time between each loop. <b>(Free)<p></li>
 </div>
    
 <div id="licenses">
-<h2>How to buy a license</h2>
+<h2>How to buy a license or try the bot with free license key</h2>
+<b>If you want to use only free features, use this key : EITTX-IQPXX-NURZG-WKWYK </b>
 To buy 30-days full-features licenses, you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a>
 - 8€ / 30 days
 <b>You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you.</b>
