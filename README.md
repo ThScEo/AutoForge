@@ -21,20 +21,20 @@ Foe latest supported version : 1.239 <br/>
 <div id="features">
 <h2>Features</h2>
 <ul>
-  <li>Harvest all buildings automatically. <b>(Free)<p></li> 
+  <li>Harvest all buildings automatically. <b>(Free)</b></li> 
   <li>Start production automatically of:
     <ul>
-      <li> Goods buildings <b>(Free)<p></li>
-      <li> Supplies buildings <b>(Free)<p></li>
-      <li> Military buldings <b>(Free)<p></li>
+      <li> Goods buildings <b>(Free)</b></li>
+      <li> Supplies buildings <b>(Free)</b></li>
+      <li> Military buldings <b>(Free)</b></li>
      </ul>
     </li>
-  <li>Polivate players automatically. <b>(Premium)<p></li>
-  <li>Collect hidden rewards automatically. <b>(Premium)<p></li>
-  <li>Flood other players with custom message (<b>BAN RISK</b>) <b>(Free)<p></li>
-  <li>Get reward of terminated quests automatically. <b>(Free)<p></li>
-  <li>Display user's city in "Map" tab. <b>(Free)<p></li>
-  <li>You can configure a random sleep time between each loop. <b>(Free)<p></li>
+  <li>Polivate players automatically. <b>(Premium)</b></li>
+  <li>Collect hidden rewards automatically. <b>(Premium)</b></li>
+  <li>Flood other players with custom message (<b>BAN RISK</b>) <b>(Free)</b></li>
+  <li>Get reward of terminated quests automatically. <b>(Free)</b></li>
+  <li>Display user's city in "Map" tab. <b>(Free)</b></li>
+  <li>You can configure a random sleep time between each loop. <b>(Free)</b></li>
 </div>
    
 <div id="licenses">
