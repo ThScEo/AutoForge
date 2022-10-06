@@ -39,7 +39,7 @@ Foe latest supported version : 1.239 <br/>
    
 <div id="licenses">
 <h2>How to buy a license or try the bot with free license key</h2>
-<b>If you want to use only free features, use this key : EITTX-IQPXX-NURZG-WKWYK </b>
+<b>If you want to use only free features, use this key : EITTX-IQPXX-NURZG-WKWYK </b><br/>
 To buy 30-days full-features licenses, you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a>
 - 8€ / 30 days
 <b>You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you.</b>
