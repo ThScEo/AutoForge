@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h1>AutoForge</h1>
 <h4>Free Up-to-date bot for Forge of Empires</h4>
 Current version : v0.4.2 <br/>
@@ -95,3 +96,7 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 <li>Neighbours management<br/><img src="neighbours.PNG" width=70% ></li>
 </ul>
 </div>
+=======
+# AutoForge
+Free bot for Forge of Empires
+>>>>>>> parent of 9afcde6 (Update README.md)
