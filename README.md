@@ -1,7 +1,7 @@
 <h1>AutoForge</h1>
 <h4>Free Up-to-date bot for Forge of Empires</h4>
-Current version : v0.4.4 <br/>
-Foe latest supported version : <b> 1.253(04/2023) </b><br/>
+Current version : v0.4.5 <br/>
+Foe latest supported version : <b> 1.255(04/2023) </b><br/>
 <h2><b>If you use the bot, please start/the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
 
@@ -33,6 +33,7 @@ Foe latest supported version : <b> 1.253(04/2023) </b><br/>
   <li>Collect hidden rewards automatically. <b>(Premium)</b></li>
   <li>Flood other players with custom message (<b>BAN RISK</b>) <b>(Free)</b></li>
   <li>Get reward of terminated quests automatically. <b>(Free)</b></li>
+  <li>Auto Spend Forge points into researches. <b>(Premium)</b></li>
   <li>Display user's city in "Map" tab. <b>(Free)</b></li>
   <li>You can configure a random sleep time between each loop. <b>(Free)</b></li>
 </div>
