@@ -2,7 +2,7 @@
 <h4>Free Up-to-date bot for Forge of Empires</h4>
 Current version : v0.4.5 <br/>
 Foe latest supported version : <b> 1.255(04/2023) </b><br/>
-<h2><b>If you use the bot, please start/the repo</b></h2>
+<h2><b>If you use the bot, please star the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
 
 <div id="summary">
