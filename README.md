@@ -34,6 +34,8 @@ Foe latest supported version : <b> 1.255(04/2023) </b><br/>
   <li>Flood other players with custom message (<b>BAN RISK</b>) <b>(Free)</b></li>
   <li>Get reward of terminated quests automatically. <b>(Free)</b></li>
   <li>Auto Spend Forge points into researches. <b>(Premium)</b></li>
+  <li>Auto collect tavern. <b>(Premium)</b></li>
+  <li>Manually collect tavern. <b>(Free)</b></li>
   <li>Display user's city in "Map" tab. <b>(Free)</b></li>
   <li>You can configure a random sleep time between each loop. <b>(Free)</b></li>
 </div>
