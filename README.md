@@ -34,10 +34,11 @@ Foe latest supported version : <b> 1.255(04/2023) </b><br/>
   <li>Flood other players with custom message (<b>BAN RISK</b>) <b>(Free)</b></li>
   <li>Get reward of terminated quests automatically. <b>(Free)</b></li>
   <li>Auto Spend Forge points into researches. <b>(Premium)</b></li>
-  <li>Auto collect tavern. <b>(Premium)</b></li>
+  <li>Auto collect tavern & Auto sit at friends taverns. <b>(Premium)</b></li>
   <li>Manually collect tavern. <b>(Free)</b></li>
   <li>Display user's city in "Map" tab. <b>(Free)</b></li>
   <li>You can configure a random sleep time between each loop. <b>(Free)</b></li>
+  <li>You can minimize the window to let the logs viewable. <b>(Free)</b></li>
 </div>
    
 <div id="licenses">
@@ -94,5 +95,6 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 <img src="tab_3.PNG" width=70%>
 <img src="tab_5.PNG" width=70%>
 <img src="tab_6.PNG" width=70%>
+<img src="minimized.PNG" width=70%>
 </ul>
 </div>
