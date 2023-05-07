@@ -35,10 +35,9 @@ Foe latest supported version : <b> 1.255(04/2023) </b><br/>
   <li>Get reward of terminated quests automatically. <b>(Free)</b></li>
   <li>Auto Spend Forge points into researches. <b>(Premium)</b></li>
   <li>Auto collect tavern & Auto sit at friends taverns. <b>(Premium)</b></li>
-  <li>Manually collect tavern. <b>(Free)</b></li>
   <li>Display user's city in "Map" tab. <b>(Free)</b></li>
   <li>You can configure a random sleep time between each loop. <b>(Free)</b></li>
-  <li>You can minimize the window to let the logs viewable. <b>(Free)</b></li>
+  <li>You can minimize the window to let only the logs viewable. <b>(Free)</b></li>
 </div>
    
 <div id="licenses">
