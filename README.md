@@ -1,7 +1,7 @@
 <h1>AutoForge</h1>
 <h4>Free Up-to-date bot for Forge of Empires</h4>
 Current version : v0.4.8 <br/>
-Foe latest supported version : <b> 1.256(07/2023) </b><br/>
+Foe latest supported version : <b> 1.261(07/2023) </b><br/>
 <h2><b>If you use the bot, please star the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
 
@@ -59,6 +59,7 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 <ol>
   <li>Unzip AutoForge_vxx.rar</li>
   <li>Run AutoForge.exe</li>
+  <li><b>If you don't buy a license key, don't forget to set the license key as EITTX-IQPXX-NURZG-WKWYK</b></li>
 </ol>
 </div>
 
