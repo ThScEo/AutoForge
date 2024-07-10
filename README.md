@@ -9,7 +9,7 @@ Foe latest supported version : <b> 1.286(07/2024) </b><br/>
 <h2>Summary</h2>
 <ol>
  <li> <a href="#features">Features</a></li>
- <li> <a href="#licenses">Buy a license key Or try the bot with key EITTX-IQPXX-NURZG-WKWYK</a></li>
+ <li> <a href="#licenses">Buy a license key Or try the bot with key EITTX-IQPXX-NURZG-WKWYK or DFNHD-TMRSA-UYFUV-XFCZB </a></li>
  <li> <a href="#download">Download</a></li>
  <li> <a href="#installation">Installation</a></li>
  <li> <a href="#run">Run</a></li>
@@ -42,7 +42,12 @@ Foe latest supported version : <b> 1.286(07/2024) </b><br/>
    
 <div id="licenses">
 <h2>How to buy a license or try the bot with free license key</h2>
-<h3>If you want to use only free features, use this key : EITTX-IQPXX-NURZG-WKWYK </b></h3><br/>
+<h3>If you want to use only free features, use one of theses keys (each is limited to 600 so if one is not working, try another) : </h3><br/>
+ <ul>
+  <li><b>EITTX-IQPXX-NURZG-WKWYK</b></ul>
+  <li><b>DFNHD-TMRSA-UYFUV-XFCZB</b></ul>
+</ul>
+ 
 To buy 30-days full-features licenses, you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a>
 - 8€ / 30 days
 <b>You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you.</b>
@@ -59,7 +64,11 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 <ol>
   <li>Unzip AutoForge_vxx.rar</li>
   <li>Run AutoForge.exe</li>
-  <li><b>If you don't buy a license, don't forget to set the license as EITTX-IQPXX-NURZG-WKWYK</b></li>
+  <li><b>If you don't buy a license, don't forget to set the license as one of: 
+    <li>
+  <ul><b>EITTX-IQPXX-NURZG-WKWYK</ul>
+  <ul>DFNHD-TMRSA-UYFUV-XFCZB</ul></b>
+</li>
 </ol>
 </div>
 
