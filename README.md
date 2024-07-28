@@ -44,8 +44,8 @@
 <h2>✨ How to buy a license or try the bot with free license key</h2>
 <h3>1️⃣ If you want to use only free features, use one of theses keys (each is limited to 600 so if one is not working, try another) : </h3><br/>
  <ul>
-  <li><b>EITTX-IQPXX-NURZG-WKWYK</b></ul>
-  <li><b>DFNHD-TMRSA-UYFUV-XFCZB</b></ul>
+  <li><b>EITTX-IQPXX-NURZG-WKWYK</b></li>
+  <li><b>DFNHD-TMRSA-UYFUV-XFCZB</b></li>
 </ul>
 
 <h3>2️⃣ Buy Premium license </h3>h>
