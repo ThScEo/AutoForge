@@ -1,66 +1,70 @@
-<h1>AutoForge</h1>
-<h4>Free Up-to-date bot for Forge of Empires</h4>
-Current version : v0.4.8 <br/>
-Foe latest supported version : <b> 1.287(27/2024) </b><br/>
+<h1>🛠️ AutoForge 🛠️</h1>
+<h4>💲 Free Up-to-date bot for Forge of Empires 💲 </h4>
+➡️ Current version : v0.4.8 <br/>
+➡️ Foe latest supported version : <b> 1.287(28/07/2024) </b><br/>
 <h2><b>If you use the bot, please star the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
 
 <div id="summary">
-<h2>Summary</h2>
+<h2>📘 Summary</h2>
 <ol>
- <li> <a href="#features">Features</a></li>
- <li> <a href="#licenses">Buy a license key Or try the bot with key EITTX-IQPXX-NURZG-WKWYK or DFNHD-TMRSA-UYFUV-XFCZB </a></li>
- <li> <a href="#download">Download</a></li>
- <li> <a href="#installation">Installation</a></li>
- <li> <a href="#run">Run</a></li>
- <li> <a href="#screenshots">Screenshots</a></li>
- <li> <a href="#report_bug">Report bug</a></li>
+ <li> <a href="#features">📑 Features</a></li>
+ <li> <a href="#licenses">✨ Buy a license key Or try the bot with key EITTX-IQPXX-NURZG-WKWYK or DFNHD-TMRSA-UYFUV-XFCZB </a></li>
+ <li> <a href="#download">📩 Download</a></li>
+ <li> <a href="#installation">💻 Installation</a></li>
+ <li> <a href="#run">🏃‍♂️ Run the bot </a></li>
+ <li> <a href="#screenshots">📷 Screenshots</a></li>
+ <li> <a href="#report_bug">🐞 Report bug</a></li>
 </ol>
 </div>
 
 <div id="features">
-<h2>Features</h2>
+<h2>📑 Features</h2>
 <ul>
-  <li>Harvest all buildings automatically. <b>(Free)</b></li> 
-  <li>Start production automatically of:
+  <li>🥣 Harvest all buildings automatically. <b>(✔️Free)</b></li> 
+  <li>🏗️ Start production automatically of:
     <ul>
-      <li> Goods buildings <b>(Free)</b></li>
-      <li> Supplies buildings <b>(Free)</b></li>
-      <li> Military buldings <b>(Free)</b></li>
+      <li> 🥗 Goods buildings <b>(✔️Free)</b></li>
+      <li> 📦 Supplies buildings <b>(✔️Free)</b></li>
+      <li> 🎖️ Military buldings <b>(✔️Free)</b></li>
      </ul>
     </li>
-  <li>Polivate players automatically. <b>(Premium)</b></li>
-  <li>Collect hidden rewards automatically. <b>(Premium)</b></li>
-  <li>Flood other players with custom message (<b>BAN RISK</b>) <b>(Free)</b></li>
-  <li>Get reward of terminated quests automatically. <b>(Free)</b></li>
-  <li>Auto Spend Forge points into researches. <b>(Premium)</b></li>
-  <li>Auto collect tavern & Auto sit at friends taverns. <b>(Premium)</b></li>
-  <li>Display user's city in "Map" tab. <b>(Free)</b></li>
-  <li>You can configure a random sleep time between each loop. <b>(Free)</b></li>
-  <li>You can minimize the window to let only the logs viewable. <b>(Free)</b></li>
+  <li>👨‍👩‍👦‍👦 Flood other players with custom message (<b>BAN RISK</b>) <b>(✔️Free)</b></li>
+  <li>🛠️ You can configure a random sleep time between each loop. <b>(✔️Free)</b></li>
+  <li>🛠️ You can minimize the window to let only the logs viewable. <b>(✔️Free)</b></li>
+  <li>🛠️ Display user's city in "Map" tab. <b>(✔️Free)</b></li>
+  <li>💫 Get reward of terminated quests automatically. <b>(💲Premium)</b></li>
+  <li>💫 Polivate players automatically. <b>(💲Premium)</b></li>
+  <li>💫 Collect hidden rewards automatically. <b>(💲Premium)</b></li>
+  <li>💫 Auto Spend Forge points into researches. <b>(💲Premium)</b></li>
+  <li>💫 Auto collect tavern & Auto sit at friends taverns. <b>(💲Premium)</b></li>
 </div>
    
 <div id="licenses">
-<h2>How to buy a license or try the bot with free license key</h2>
-<h3>If you want to use only free features, use one of theses keys (each is limited to 600 so if one is not working, try another) : </h3><br/>
+<h2>✨ How to buy a license or try the bot with free license key</h2>
+<h3>1️⃣ If you want to use only free features, use one of theses keys (each is limited to 600 so if one is not working, try another) : </h3><br/>
  <ul>
   <li><b>EITTX-IQPXX-NURZG-WKWYK</b></ul>
   <li><b>DFNHD-TMRSA-UYFUV-XFCZB</b></ul>
 </ul>
- 
-To buy 30-days full-features licenses, you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a>
-- 4€ / 30 days
-<b>You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you.</b>
+
+<h3>2️⃣ Buy Premium license </h3>h>
+You can buy a monthly license, or a lifetime license. All features will be available.
+<ul> 
+ <li>💲 To buy 30-days full-features licenses (<b>4€ / 30 days</b>), you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a></li>
+ <li>💲 To buy lifetime full-features licenses (<b>50€ / LIFETIME</b>), you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/2216">the following form</a></li>
+</ul>
+<b>✔️ You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you for your support!</b>
 </div>
 
 <div id="download">
-<h2>Download</h2>
+<h2>📩 Download</h2>
 To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/releases">Releases</a> and download the latest release.
 </div>
 
 
 <div id="installation">
-<h2>Installation</h2>
+<h2>💻 Installation</h2>
 <ol>
   <li>Unzip AutoForge_vxx.rar</li>
   <li>Run AutoForge.exe</li>
@@ -74,7 +78,7 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 
 
 <div id="run">
-<h2>Run</h2>
+<h2>🏃‍♂️ Run</h2>
  <i>If you don't see the big blue button "run", Then you should try to set your screen resolution to 100%</i>
  <h3>To connect with AutoForge, you need 3 variables:</h3>
  <ol>
@@ -95,7 +99,7 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
  </ol>
  
 <div id="screenshots">
-<h2>Screenshots</h2>
+<h2>📷 Screenshots</h2>
 <ul>
 <img src="tab_1.PNG" width=70%>
 <img src="tab_2.PNG" width=70%>
