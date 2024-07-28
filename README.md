@@ -38,6 +38,7 @@
   <li>💫 Collect hidden rewards automatically. <b>(💲Premium)</b></li>
   <li>💫 Auto Spend Forge points into researches. <b>(💲Premium)</b></li>
   <li>💫 Auto collect tavern & Auto sit at friends taverns. <b>(💲Premium)</b></li>
+</ul>
 </div>
    
 <div id="licenses">
@@ -68,9 +69,8 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 <ol>
   <li>Unzip AutoForge_vxx.rar</li>
   <li>Run AutoForge.exe</li>
-  <li><b>If you don't buy a license, don't forget to set the license as one of: 
-    <li>
-  <ul><b>EITTX-IQPXX-NURZG-WKWYK</ul>
+  <li><b>If you don't buy a license, don't forget to set the license as one of:
+  <ul><b>EITTX-IQPXX-NURZG-WKWYK</b></ul>
   <ul>DFNHD-TMRSA-UYFUV-XFCZB</ul></b>
 </li>
 </ol>
@@ -92,22 +92,23 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
   <li>Once done and the game is loaded, open the developper toolbox (CTRL+MAJ+I) on Google Chrome, this can be different on other navigators)</li>
   <li>Open the "Network" tab and find any message which request url looks like "json?h=something", select it on the developper toolbox by clicking.</li>
   <li>Your User Key is the value after the "json?h=your_user_key_is_here". Copy its value and fill the field "user_key" in Autoforge with it.
-  <img src="how_to_login.PNG" width=60%></li>
-  <li>Your SID is the value of the sid cookie. To find it, select the "Headers" tab, scroll down to the "Request Headers" section, and find the "cookie" field. Copy the value of the sid only, and fill the field "sid" in AutoForge with it. <img src="how_to_login_sid.PNG" width=60%></li>
-  <li>The web adresse is the URL displayed on your navigator when playing Forge Of Empires. <img src="how_to_login_url.PNG" width=60%><br/>
+  <img src="img/how_to_login.png" width=60%></li>
+  <li>Your SID is the value of the sid cookie. To find it, select the "Headers" tab, scroll down to the "Request Headers" section, and find the "cookie" field. Copy the value of the sid only, and fill the field "sid" in AutoForge with it. <img src="img/how_to_login_sid.png" width=60%></li>
+  <li>The web adresse is the URL displayed on your navigator when playing Forge Of Empires. <img src="img/how_to_login_url.png" width=60%><br/>
    For example: "https://es21.forgeofempires.com/game/"</li>
  </ol>
  
 <div id="screenshots">
 <h2>📷 Screenshots</h2>
 <ul>
-<img src="tab_1.PNG" width=70%>
-<img src="tab_2.PNG" width=70%>
-<img src="tab_2_extended_1.PNG" width=70%>
-<img src="tab_2_extended_2.PNG" width=70%>
-<img src="tab_3.PNG" width=70%>
-<img src="tab_5.PNG" width=70%>
-<img src="tab_6.PNG" width=70%>
-<img src="minimized.PNG" width=70%>
+    <img src="img/tab_1.png" width=70%>
+    <img src="img/tab_2.png" width=70%>
+    <img src="img/tab_2_extended_1.png" width=70%>
+    <img src="img/tab_2_extended_2.png" width=70%>
+    <img src="img/tab_3.png" width=70%>
+    <img src="img/tab_5.png" width=70%>
+    <img src="img/tab_6.png" width=70%>
+    <img src="img/minimized.png" width=70%>
 </ul>
+</div>
 </div>
