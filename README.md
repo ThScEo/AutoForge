@@ -49,7 +49,7 @@ Foe latest supported version : <b> 1.287(27/2024) </b><br/>
 </ul>
  
 To buy 30-days full-features licenses, you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a>
-- 8€ / 30 days
+- 4€ / 30 days
 <b>You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you.</b>
 </div>
 
