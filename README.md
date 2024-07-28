@@ -48,8 +48,8 @@
   <li><b>DFNHD-TMRSA-UYFUV-XFCZB</b></li>
 </ul>
 
-<h3>2️⃣ Buy Premium license </h3>h>
-You can buy a monthly license, or a lifetime license. All features will be available.
+<h3>2️⃣ Buy Premium license </h3>
+<b>You can buy a monthly license, or a lifetime license. All features will be available.</b>
 <ul> 
  <li>💲 To buy 30-days full-features licenses (<b>4€ / 30 days</b>), you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a></li>
  <li>💲 To buy lifetime full-features licenses (<b>50€ / LIFETIME</b>), you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/2216">the following form</a></li>
