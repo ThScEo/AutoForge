@@ -5,6 +5,12 @@
 <h2><b>If you use the bot, please star the repo</b></h2>
 <i><b>If you want new features, please open an issue</b></i>
 
+<h4>🌟 Coming soon features 🌟</h4>
+<ul>
+ <li>🌟Sequence Manager! Record a list of actions you want to do, then you can directly play this sequence from the bot. This can be useful if you do some specific tasks often, for example if you create new accounts, you can register the sequence of doing tutorial, then play this sequence from the bot to end it in few seconds!</li>
+ <li>🌟Translations to other languages</li>
+</ul>
+
 <div id="summary">
 <h2>📘 Summary</h2>
 <ol>
