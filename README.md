@@ -15,7 +15,7 @@
 <h2>📘 Summary</h2>
 <ol>
  <li> <a href="#features">📑 Features</a></li>
- <li> <a href="#licenses">✨ Buy a license key Or try the bot with key EITTX-IQPXX-NURZG-WKWYK or DFNHD-TMRSA-UYFUV-XFCZB </a></li>
+ <li> <a href="#licenses">✨ Try all features for free for 8 days with a trial license key or buy a premium license (4€/30 days or 50€/lifetime) </a></li>
  <li> <a href="#download">📩 Download</a></li>
  <li> <a href="#installation">💻 Installation</a></li>
  <li> <a href="#run">🏃‍♂️ Run the bot </a></li>
@@ -48,18 +48,14 @@
 </div>
    
 <div id="licenses">
-<h2>✨ How to buy a license or try the bot with free license key</h2>
-<h3>1️⃣ If you want to use only free features, use one of theses keys (each is limited to 600 so if one is not working, try another) : </h3><br/>
- <ul>
-  <li><b>EITTX-IQPXX-NURZG-WKWYK</b></li>
-  <li><b>DFNHD-TMRSA-UYFUV-XFCZB</b></li>
-</ul>
+<h2>✨ How to buy a license or try the bot with trial license key</h2>
+<h3>1️⃣ If you want to try the bot with a trial license key, just click on the "Use trial key" button from the login page. A trial key will be generated and give you access to all premium features for 8 days</h3>
 
 <h3>2️⃣ Buy Premium license </h3>
 <b>You can buy a monthly license, or a lifetime license. All features will be available.</b>
 <ul> 
- <li>💲 To buy 30-days full-features licenses (<b>4€ / 30 days</b>), you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/1601">the following form</a></li>
- <li>💲 To buy lifetime full-features licenses (<b>50€ / LIFETIME</b>), you must use <a href="https://app.cryptolens.io/Form/P/XCCDJ4P6/2216">the following form</a></li>
+ <li>💲 To buy 30-days full-features licenses (<b>4€ / 30 days</b>), you must use <a href="https://app.cryptolens.io/Form/P/akTrCtQI/2218">the following form</a></li>
+ <li>💲 To buy lifetime full-features licenses (<b>50€ / LIFETIME</b>), you must use <a href="https://app.cryptolens.io/Form/P/SgvJAOhe/2219">the following form</a></li>
 </ul>
 <b>✔️ You will receive you key immediatly after payment. Next, you can then enter your key in the bot, then enjoy. Thank you for your support!</b>
 </div>
@@ -75,9 +71,6 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
 <ol>
   <li>Unzip AutoForge_vxx.rar</li>
   <li>Run AutoForge.exe</li>
-  <li><b>If you don't buy a license, don't forget to set the license as one of:
-  <ul><b>EITTX-IQPXX-NURZG-WKWYK</b></ul>
-  <ul>DFNHD-TMRSA-UYFUV-XFCZB</ul></b>
 </li>
 </ol>
 </div>
