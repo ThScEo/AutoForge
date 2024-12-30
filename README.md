@@ -73,6 +73,14 @@ To download latest release, go to <a href="https://github.com/ThScEo/AutoForge/r
   <li>Run AutoForge.exe</li>
 </li>
 </ol>
+ <h3> Possibles issues </h3>
+ <p> if the software tell you your license is invalid but you are sure your license is valid, please do theses steps then relaunch the software:
+ <ol>
+  <li> Please go to Settings > System>Optional Features. </li>li>
+   <li> Under Added feature, search for wmic, see if you have it. If not, you need to click on "view features" for the Add optional feature, to find it and add it first.
+   </li>
+ </ol>
+ </p>
 </div>
 
 
